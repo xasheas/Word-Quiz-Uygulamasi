@@ -1,0 +1,15 @@
+C:\Users\mwidg\source\repos\surum1\surum1\bin\Debug\surum1.exe.config
+C:\Users\mwidg\source\repos\surum1\surum1\bin\Debug\surum1.exe
+C:\Users\mwidg\source\repos\surum1\surum1\bin\Debug\surum1.pdb
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.csprojAssemblyReference.cache
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.Form1.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.Properties.Resources.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.csproj.GenerateResource.cache
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.csproj.CoreCompileInputs.cache
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.exe
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.pdb
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.addwordform.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.dictionaryform.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.testingform.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.statisticsform.resources
+C:\Users\mwidg\source\repos\surum1\surum1\obj\Debug\surum1.statistics.resources
